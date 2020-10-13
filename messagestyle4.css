@@ -1,0 +1,277 @@
+
+    .box{
+        background-color: rgb(0,0,0); /* Fallback color */
+        background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
+        color: floralwhite;
+        font-weight: bold;
+        border: 9px outset #fffcfc;
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        z-index: 2;
+        width: 80%;
+        padding: 50px;
+        text-align: center;
+        height: 220px;
+    }
+    
+ 
+    body{
+        background-color: rgba(146, 6, 6, 0.842);
+        
+    }
+    .fa {
+        padding: 20px;
+        font-size: 30px;
+        width: 50px;
+        text-align: center;
+        text-decoration: none;
+        margin: 5px 2px;
+      }
+      
+      .fa:hover {
+          opacity: 0.7;
+      }
+      
+    .fa-google {
+        background: #fa604c;
+        color: white;
+        
+
+      }
+      .fa-instagram {
+        background: #125688;
+        color: white;
+      }
+      .fa-facebook {
+        background: #3B5998;
+        color: white;
+      }
+      
+      .fa-twitter {
+        background: #55ACEE;
+        color: white;
+      }
+    
+      .fa-linkedin {
+        background: #007bb5;
+        color: white;
+      }
+      .contact::after{
+          content: "👇";
+      }
+      .contact{
+          font-size: 40px;
+          font-weight: bolder;
+          font-family: Georgia, 'Times New Roman', Times, serif;
+         
+      }
+
+      /*BACK BUTTON*/
+
+      .back{
+        width: 600px;
+        height: 40px;
+        background-color: rgba(208, 197, 255, 0.952);
+        color:black;
+        margin-top: 12px;
+        border-radius: 15px;
+        font-size: 19px;
+        font-family: monospace;
+       
+        text-align: center;
+        align-items: center;
+        
+       
+       }
+       .back:hover{
+         background-color: rgb(250, 151, 121);
+         height: 45px;
+         width:620px;
+       }
+
+
+/*SIDENAV 1*/
+
+      .sidenav {
+        height: 100%;
+        width: 0;
+        position: fixed;
+        z-index: 1;
+        top: 0;
+        left: 0;
+        background-color: rgba(17, 16, 17, 0.979);
+        overflow-x: hidden;
+        transition: 0.5s;
+        padding-top: 60px;
+      }
+      
+      .sidenav a {
+        padding: 8px 8px 8px 32px;
+        text-decoration: none;
+        font-size: 25px;
+        color: #818181;
+        display: block;
+        transition: 0.3s;
+      }
+      
+      .sidenav a:hover {
+        color: #f1f1f1;
+      }
+      
+      .sidenav .closebtn {
+        position: absolute;
+        top: 0;
+        right: 25px;
+        font-size: 36px;
+        margin-left: 50px;
+      }
+      
+      @media screen and (max-height: 450px) {
+        .sidenav {padding-top: 15px;}
+        .sidenav a {font-size: 18px;}
+      }
+    p{
+      font-size: 27px;
+      font-family: cursive;
+      color: rgb(13, 255, 235);
+      
+    }
+    .send{
+      font-size: 30px;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+      border-bottom: 5px double lightcyan;
+    padding-bottom: 12px;
+  color:lightsalmon; }
+
+  /*SIDENAV 2*/
+
+  .sidenav2 {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: rgba(17, 16, 17, 0.979);
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+  }
+  
+  .sidenav2 a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+  }
+  
+  .sidenav2 a:hover {
+    color: #f1f1f1;
+  }
+  
+  .sidenav2 .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+  }
+  
+  @media screen and (max-height: 450px) {
+    .sidenav2 {padding-top: 15px;}
+    .sidenav2 a {font-size: 18px;}
+  }
+
+  
+  /*SIDENAV 3*/
+
+  .sidenav3 {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: rgba(17, 16, 17, 0.979);
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+  }
+  
+  .sidenav3 a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+  }
+  
+  .sidenav3 a:hover {
+    color: #f1f1f1;
+  }
+  
+  .sidenav3 .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+  }
+  
+  @media screen and (max-height: 450px) {
+    .sidenav3 {padding-top: 15px;}
+    .sidenav3 a {font-size: 18px;}
+  }
+
+
+  /*SIDENAV 4*/
+
+  .sidenav4 {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: rgba(17, 16, 17, 0.979);
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+  }
+  
+  .sidenav4 a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+  }
+  
+  .sidenav4 a:hover {
+    color: #f1f1f1;
+  }
+  
+  .sidenav4 .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+  }
+  
+  @media screen and (max-height: 450px) {
+    .sidenav4 {padding-top: 15px;}
+    .sidenav4 a {font-size: 18px;}
+  }
+  .p{
+    font-size: 22px;
+    font-family: cursive;
+    color: rgb(13, 255, 235);
+    
+  }

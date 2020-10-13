@@ -1,0 +1,69 @@
+.icon-bar {
+    width: 400px; 
+    border: 12px outset black;
+    margin-left: 35%;
+    align-items: center;
+    text-align: center;
+    margin-top: 18px;
+    background-color: rgba(131, 196, 187, 0.979);
+    padding: 57px;
+
+    
+  }
+  .fa {
+    padding: 10px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    width: 90px; 
+    background-color: rgb(36, 34, 36);
+    border-radius: 10px;
+    
+
+    
+  }
+  
+  .icon-bar a {
+    text-align: center; 
+    padding: 16px;
+    transition: all 0.3s ease; 
+    color: white; 
+    font-size: 36px; 
+  }
+  
+ 
+  body{
+      background-color: rgb(35, 2, 73);
+  }
+  p{
+      position: relative;
+      font: bold;
+      font-size: 15px;
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      border-bottom: 3px solid black;
+      
+  }
+   /*BACK BUTTON*/
+
+   .back{
+    width: 300px;
+    height: 50px;
+    background-color: rgba(177, 165, 233, 0.952);
+    color:black;
+    margin-top: 40px;
+    border-radius: 15px;
+    font-size: 19px;
+    font-family: monospace;
+   border: 3px solid black;
+    text-align: center;
+    align-items: center;
+    
+   
+   }
+   .back:hover{
+     background-color: rgb(91, 74, 117);
+     height: 52px;
+     width:310px;
+   }
