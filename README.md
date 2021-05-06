@@ -14,10 +14,8 @@ The project uses PHP, MySQL, HTML, CSS, JavaScript, JQuery and Bootstrap to deve
 
 
 1. LOGIN PAGE:
-
-
-2. REGISTRATION PAGE:
 ![Uploading image.png…]()
+
 
 
 
