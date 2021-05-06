@@ -13,6 +13,11 @@ The project uses PHP, MySQL, HTML, CSS, JavaScript, JQuery and Bootstrap to deve
 3. Download all the files from this repo and store these in this newly created folder.
 
 
+1. LOGIN PAGE:
 
-![image](https://user-images.githubusercontent.com/65955491/117288153-d0650a00-ae88-11eb-90b1-52769c6f7211.png)
+
+2. REGISTRATION PAGE:
+![Uploading image.png…]()
+
+
 
