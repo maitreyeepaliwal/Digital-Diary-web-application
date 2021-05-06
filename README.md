@@ -13,9 +13,6 @@ The project uses PHP, MySQL, HTML, CSS, JavaScript, JQuery and Bootstrap to deve
 3. Download all the files from this repo and store these in this newly created folder.
 
 
-1. LOGIN PAGE:
-![Uploading image.png…]()
-
 
 
 
