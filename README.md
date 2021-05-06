@@ -11,3 +11,8 @@ The project uses PHP, MySQL, HTML, CSS, JavaScript, JQuery and Bootstrap to deve
 1. Fill the database entries using phpmyadmin with the help of "Database details.pdf".
 2. Create a new folder in htdocs folder of xampp folder in your system.
 3. Download all the files from this repo and store these in this newly created folder.
+
+
+
+![image](https://user-images.githubusercontent.com/65955491/117288153-d0650a00-ae88-11eb-90b1-52769c6f7211.png)
+
