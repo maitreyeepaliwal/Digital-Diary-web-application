@@ -1,5 +1,5 @@
-# Digital-Diary-web-application
-### A internet and web probramming project
+# Digital-Diary-web-application 📖📖
+### A internet and web programming project
 
 Our project is a web application which provides users to maintain a digital diary. <br />
 Since users would like to ensure their privacy for what they write here, appropriate functions are used to protect their data. <br />
